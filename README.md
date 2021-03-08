@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### 个人简介
+* 基本信息
+    * 姓名：黄杰
+    * 专业：软件工程
+    * 兴趣爱好：自行车，修仙题材的游戏
+    * 技术偏好：C++，图形学。
+    * 联系方式：3336739686@qq.com
+    * Github：https://github.com/senya-takasu/senya-takasu
+
 <!--
 **senya-takasu/senya-takasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
