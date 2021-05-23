@@ -4,8 +4,8 @@
 * 基本信息
     * 姓名：黄杰
     * 专业：软件工程
-    * 兴趣爱好：自行车，修仙题材的游戏
-    * 技术偏好：C++，图形学。
+    * 兴趣爱好：Yu-Gi-On
+    * 技术偏好：C++ 图形学 UE
     * 联系方式：3336739686@qq.com
     * Github：https://github.com/senya-takasu/senya-takasu
 
